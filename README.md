@@ -1,2 +1,2 @@
 # pabalhas
-A MERN stack application for creating exercise task
+A MERN stack application for creating workout task
