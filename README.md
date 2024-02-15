@@ -3,10 +3,10 @@ A MERN stack application for creating workout task. The user can add a workout t
 
 Screenshots:
 
-Sign Up:
+Sign Up (New user was added in the database):
 ![image](https://github.com/markDoesany/pabalhas/assets/143711609/b3173e97-ae00-459a-90c6-b981dd719389)
 
-Sign Up (New user was added in the database):
+Sign In:
 ![image](https://github.com/markDoesany/pabalhas/assets/143711609/61b7feed-c421-41fa-b90d-8125c5d7780e)
 
 Dashboard (No workouts yet):
